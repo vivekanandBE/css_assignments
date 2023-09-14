@@ -1,0 +1,60 @@
+.title{
+    background: url(../images/nature.jpeg)no-repeat center;
+    height: 80vh;
+    background-size: 100%;
+    padding-top: 110px;
+}
+.item{
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 300px;
+    height: 450px;
+    margin: 80px;
+    display: inline-block;
+    border-radius: 20px;
+    
+    
+}
+.item1{
+    background-color: rgba(255, 166, 0, 0.752);
+    width: 300px;
+    height: 200px;
+    border-radius: 20px 20px 50% 50%;
+}
+p{
+    color: blue;
+    text-align: center;
+}
+button{
+    background-color: orange;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin: 30px;
+    margin-left: 100px;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 100px;
+    margin-left: 120px;
+    margin-top: 150px;
+}
+#run{
+    background-color: purple;
+}
+#run1{
+    background-color: palevioletred;
+}
+h1:hover{
+    color: red;
+}
+p:hover{
+    color: whitesmoke;
+}
+button:hover{
+    background-color: green;
+    color: aqua;
+}
